@@ -1,0 +1,1 @@
+.grid,body,html{height:100%}*{margin:0;padding:0}.grid{display:flex;flex-direction:row;justify-content:start}.grid .l-column{border-radius:4px;border:1px solid #000;background-color:gray;height:100%}.grid.four .l-column{width:25%}.grid.three .l-column{width:33.3333%}
